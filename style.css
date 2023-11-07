@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+}
+
+.bg-img1 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80);
+}
+.bg-img2 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.unsplash.com/photo-1602661287394-ccf02e1a0893?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+}
+.bg-img3 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images.unsplash.com/photo-1583144568008-76743354fa5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+}
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
